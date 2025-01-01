@@ -12,3 +12,4 @@ A simple bot for creating Twitter accounts using proxies.
 - requests for HTTP requests
 - Proxies: A list of proxies (HTTP/HTTPS) is required.
 - Contact : https://t.me/SizaGod
+ 
